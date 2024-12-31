@@ -3,9 +3,6 @@ Implemented deep reinforcement learning algorithms (DDQN, DQN) to optimize auton
 
 # Visual Simulation of Autonomous Vehicle Navigation
 
-Here’s a visual simulation of the autonomous vehicle navigation:
+![Visual Simulation](https://media.giphy.com/media/6yGw51hg6gRflukHz8/giphy.gif)
 
-<video width="640" height="360" controls>
-  <source src="visual simulation video.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+This is a visual simulation of the autonomous vehicle navigating through the environment.
